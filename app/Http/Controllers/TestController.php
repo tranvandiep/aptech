@@ -12,4 +12,8 @@ class TestController extends Controller {
 	public function showSell(Request $request) {
 		return view('sell');
 	}
+
+	public function showSell2(Request $request) {
+		# code...
+	}
 }
