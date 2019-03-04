@@ -15,5 +15,6 @@ class TestController extends Controller {
 
 	public function showSell2(Request $request) {
 		# code...
+		//test
 	}
 }

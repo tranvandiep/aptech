@@ -66,3 +66,8 @@ Route::get('/ban-hang-2', [
 		'as'   => 'sell-2',
 		'uses' => 'TestController@showSell2'
 	]);
+
+Route::get('/ban-hang-3', [
+		'as'   => 'sell-3',
+		'uses' => 'TestController@showSell2'
+	]);
